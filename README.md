@@ -1,6 +1,6 @@
 [![Views](https://komarev.com/ghpvc/?username=gfmendozad&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&vCenter=true&width=435&lines=Hi%2C+you've+reached+Tommy's+Git!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&vCenter=true&width=435&lines=Hi%2C+you've+reached+German's+Git!)](https://git.io/typing-svg)
 
 A Computer Science Engineer who has worked in different areas within the IT field, excelling in databases, web/app development and IT management.
 
